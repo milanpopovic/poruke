@@ -1,0 +1,15 @@
+#nova-poruka {
+  background: green;
+  color: white;
+  font-weight: bold;
+}
+
+#posalji {
+  background: red;
+  color: white;
+  font-weight: bold;
+}
+
+#poruka-div {
+  visibility: hidden;
+}
