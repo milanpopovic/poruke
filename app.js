@@ -58,7 +58,7 @@ function posaljiPoruku() {
   options.poruka = poruka; 
   //AjaxZahtev(options, ProcesirajOdgovor)
   alert(options.posiljalac+"\n"+options.primalac+"\n"+options.poruka);
-
+  // Sakrij formu
 	sakrijFormu();
 }
 
