@@ -58,8 +58,8 @@ function posaljiPoruku() {
   options.poruka = poruka; 
   //AjaxZahtev(options, ProcesirajOdgovor)
   alert(options.posiljalac+"\n"+options.primalac+"\n"+options.poruka);
-  // Sakrij formu
-	sakrijFormu();
+  // Sakrij formu za poruke
+  sakrijFormu();
 }
 
 function proveraPodataka(posiljalac, primalac, poruka) {
